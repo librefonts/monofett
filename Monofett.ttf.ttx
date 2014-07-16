@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Monofett.ttf.GlyphOrder.ttx"/>
+  <head src="Monofett.ttf._h_e_a_d.ttx"/>
+  <hhea src="Monofett.ttf._h_h_e_a.ttx"/>
+  <maxp src="Monofett.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="Monofett.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="Monofett.ttf._h_m_t_x.ttx"/>
+  <cmap src="Monofett.ttf._c_m_a_p.ttx"/>
+  <prep src="Monofett.ttf._p_r_e_p.ttx"/>
+  <loca src="Monofett.ttf._l_o_c_a.ttx"/>
+  <glyf src="Monofett.ttf._g_l_y_f.ttx"/>
+  <name src="Monofett.ttf._n_a_m_e.ttx"/>
+  <post src="Monofett.ttf._p_o_s_t.ttx"/>
+  <gasp src="Monofett.ttf._g_a_s_p.ttx"/>
+  <FFTM src="Monofett.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="Monofett.ttf.G_D_E_F_.ttx"/>
+</ttFont>
